@@ -2,6 +2,8 @@ Figma - https://www.figma.com/design/rwBjcajyKV4nRmlmVqbm04/Untitled?node-id=0-1
 
 Требования: https://docs.google.com/document/d/125zKmnmKqgfDmomaizt8plj2Q3jKFJ0VRapr_0JL1SY/edit?usp=sharing
 
+Модель состояний задач: https://docs.google.com/document/d/1uqtalMM0sQP-cOV4g9XAYWWBy7ZBXKAvCWIJFd6d14s/edit?usp=sharing
+
 План проекта:
 
 [xoxotun_bank_plan.xls](https://github.com/user-attachments/files/17725193/xoxotun_bank_plan.xls)
