@@ -108,4 +108,7 @@ REQ_NFR_05: Бэк системы должны быть разработан н�
 
 REQ_NFR_06: Система должна использовать СУБД PostgreSql
 
+План проекта:
+
+[xoxotun_bank_plan.xls](https://github.com/user-attachments/files/17725193/xoxotun_bank_plan.xls)
 
