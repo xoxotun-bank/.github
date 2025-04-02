@@ -11,4 +11,5 @@ Figma - https://www.figma.com/design/rwBjcajyKV4nRmlmVqbm04/Untitled?node-id=0-1
 Архитектура проекта:
 ![image](https://github.com/user-attachments/assets/b270c0c5-5bff-4d7a-b84a-9db8e1e53b54)
 
-[Отчет Хохотунов.docx](https://github.com/user-attachments/files/19200972/default.docx)
+
+[Отчет Хохотунов_final.docx](https://github.com/user-attachments/files/19576667/_final.docx)
