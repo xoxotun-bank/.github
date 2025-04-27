@@ -12,3 +12,4 @@ Figma - https://www.figma.com/design/rwBjcajyKV4nRmlmVqbm04/Untitled?node-id=0-1
 ![image](https://github.com/user-attachments/assets/b270c0c5-5bff-4d7a-b84a-9db8e1e53b54)
 
 [отчет.docx](https://github.com/user-attachments/files/19932210/default.docx)
+[Отчет_по_сопровождению_программного_средства_v4.docx](https://github.com/user-attachments/files/19932213/_._._._._v4.docx)
